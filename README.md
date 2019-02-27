@@ -8,6 +8,9 @@ Test accuracy: 0.453875
 
 3 - score: 0.90325 - Duvida sobre input (x_test) do svm ao calcular score
 
-4 - 
+4 - Epoch 100/100 loss: 9.6340e-04 - acc: 0.9996 - val_loss: 1.0957 - val_acc: 0.9135
+Test loss: 11.469436004638672
+Test accuracy: 0.208625
+
 
 
