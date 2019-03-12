@@ -1,8 +1,10 @@
 # stl10-testes
 
-1 - graficos
+1 -  Treino AE com dados não rotulados
 
-2 - epoc 100/100 loss: 4.9976e-05 - acc: 1.0000 - val_loss: 5.0586 - val_acc: 0.4750
+2 - Treino CNN pequena 
+![alt text](cnn_pequena.png)
+epoc 100/100 loss: 4.9976e-05 - acc: 1.0000 - val_loss: 5.0586 - val_acc: 0.4750
 
 Test loss: 8.792559923171996
 Test accuracy: 0.453875
