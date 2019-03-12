@@ -1,6 +1,6 @@
 # stl10-testes
 
-## 1 -  Treinamento AE com dados não rotulados
+# 1 -  Treinamento AE com dados não rotulados
 
 2 - Treinamento CNN pequena 
 
