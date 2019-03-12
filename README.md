@@ -4,7 +4,7 @@
 
 2 - Treinamento CNN pequena 
 
-<img src="cnn_pequena.png" style="width: 50%; height: 50%" />
+<img src="cnn_pequena.png" style="width: 10%; height: 10%" />
 epoc 100/100 loss: 4.9976e-05 - acc: 1.0000 - val_loss: 5.0586 - val_acc: 0.4750
 
 Test loss: 8.792559923171996
