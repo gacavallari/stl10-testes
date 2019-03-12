@@ -3,7 +3,9 @@
 1 -  Treino AE com dados não rotulados
 
 2 - Treino CNN pequena 
-[[cnn_pequena.png]]
+<img src="cnn_pequena.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 epoc 100/100 loss: 4.9976e-05 - acc: 1.0000 - val_loss: 5.0586 - val_acc: 0.4750
 
 Test loss: 8.792559923171996
