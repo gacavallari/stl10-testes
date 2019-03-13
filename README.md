@@ -18,11 +18,11 @@ Teste SVM (features de teste): **score: 0.90325**
 
 ### 4 - Fine-tuning da MobileNet
 
-<img src="finetuning-mobilenet.png" width="50%" height="50%"/>
+<img src="finetuning-mobilenet2 .png" width="50%" height="50%"/>
 
-acc: 0.9996 
+acc: 0.9992
 
-test_acc: 0.9135
+test_acc: 0.9230
 
 
 
