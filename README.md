@@ -2,6 +2,13 @@
 
 ### 1 -  Treinamento AE com dados não rotulados
 
+16_1024_adam
+<img src="16_1024_adam.png" width="50%" height="50%"/>
+
+32_2048_adam
+<img src="32_2048_adam.png" width="50%" height="50%"/>
+
+
 ### 2 - Treinamento CNN pequena 
 
 <img src="cnn_pequena.png" width="50%" height="50%"/>
