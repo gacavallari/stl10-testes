@@ -24,6 +24,8 @@ acc: 0.9992
 
 test_acc: 0.9230
 
+### 5 - Extração de características com MobileNet (do fine-tuning)
+Treinamento SVM (features de treinamento)
 
-
+Teste SVM (features de teste): **score: 0.943** 
 
