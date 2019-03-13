@@ -2,13 +2,16 @@
 
 ### 1 -  Treinamento AE com dados não rotulados
 
-2 - Treinamento CNN pequena 
+### 2 - Treinamento CNN pequena 
 
 <img src="cnn_pequena.png" width="50%" height="50%"/>
 acc: 1.0000 
 test_acc: 0.4595
 
-3 - score: 0.90325 - Duvida sobre input (x_test) do svm ao calcular score
+### 3 - Extração de características com MobileNet
+Treinamento SVM (features de treinamento)
+Teste SVM (features de teste): **score: 0.90325** 
+
 
 4 - Epoch 100/100 loss: 9.6340e-04 - acc: 0.9996 - val_loss: 1.0957 - val_acc: 0.9135
 
