@@ -31,7 +31,7 @@ Teste SVM (features de teste): **score: 0.943**
 
 ### 6 - Treinamento MobileNet no dataset Places
 
-Alternativa foi utilizar o modelo já treinado disponibilizado em https://github.com/GKalliatakis/Keras-VGG16-places365 
+Alternativa: utilizar o modelo já treinado disponibilizado em https://github.com/GKalliatakis/Keras-VGG16-places365 
 Treinamento SVM (features de treinamento)
 
 Teste SVM (features de teste): **score: 0.7485** 
