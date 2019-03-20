@@ -51,8 +51,8 @@ Teste SVM (features de teste): **score: 0.7485**
 -----------------------------------------------------------------
 1) 
 - Reconstrução:
-<img src="normal.png" width="100%" height="100%"/>
-<img src="reconstruida.png" width="100%" height="100%"/>
+<img src="normal.png" width="70%" height="70%"/>
+<img src="reconstruida.png" width="70%" height="70%"/>
 
 - Usar as características do AE para treinar a SVM - **score: 0.374625**
 - Droput: 0.1, 0.3 e 0.5, respectivamente:
